@@ -1,3 +1,11 @@
+PICTURES:
+<img width="1877" height="907" alt="image" src="https://github.com/user-attachments/assets/2fc11366-288c-4799-a955-372bae9f3ef5" />
+<img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/9918fc4e-78d8-4757-9906-50002aa6019c" />
+<img width="1915" height="902" alt="image" src="https://github.com/user-attachments/assets/f6d373b0-55be-4933-b6a9-2eda8b6d5270" />
+<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/4ca35986-1018-4024-94d2-ff7e2ff9ba9c" />
+<img width="1062" height="916" alt="image" src="https://github.com/user-attachments/assets/f90adcc3-7aa4-4d31-9e9f-07d759bb8fb6" />
+
+
 # AI Study Planner & Productivity App
 
 A smart study planning application that helps students and self-learners create intelligent study schedules based on deadlines, difficulty, and available time.
@@ -135,3 +143,4 @@ Your data persists between sessions and is never sent to external servers.
 ## License
 
 MIT
+
